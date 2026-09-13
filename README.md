@@ -34,13 +34,6 @@
 * **Programming Language:** C++
 * **Graphics/Engine:** OpenGL / GLUT
 
-## My Contribution
-
-* Contributed to game logic and implementation
-* Worked on game mechanics and user interaction
-* Contributed to testing and debugging
-* Contributed to project documentation and presentation
-
 ## How to Run
 
 1. Clone the repository.
